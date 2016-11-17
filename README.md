@@ -1,13 +1,9 @@
-# Deprecated
+# Fork of ddollar/heroku-buildpack-multi
 
-This project is deprecated and is no longer being maintained.
+The ddollar/heroku-buildpack-multi project is deprecated and is no longer being maintained.
 
-Please fork it to your own account and update your `BUILDPACK_URL`
+Using this so we can transition out of this, and use alternatives:
 
-You can also check out Heroku's [built-in buildpack-multi support](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app).
-
-Cloud Foundry users, amongst others, may wish to use a community-maintained and
-actively developed version of this buildpack, available at
+Heroku's [built-in buildpack-multi support](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app).
 https://bitbucket.org/cf-utilities/cf-buildpack-multi/
 
-Please check out my current project [Convox](https://convox.com) for all of your deployment needs!
